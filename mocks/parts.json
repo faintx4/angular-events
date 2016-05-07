@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "title": "Star Wars",
+        "episodes": [
+            "Episode V – The Empire Strikes Back",
+            "Episode VI – Return of the Jedi",
+            "Episode I – The Phantom Menace",
+            "Episode II – Attack of the Clones",
+            "Episode III – Revenge of the Sith"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "The Lord of the Rings",
+        "episodes": [
+            "The Fellowship of the Ring",
+            "The Two Towers",
+            "The Return of the King"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Harry Potter",
+        "episodes": [
+            "Harry Potter and the Philosopher's Stone",
+            "Harry Potter and the Chamber of Secrets",
+            "Harry Potter and the Prisoner of Azkaban"
+        ]
+    }
+]
